@@ -2,7 +2,7 @@ import pickle
 from enum import Enum
 import random
 
-newspaper_datafile = 'data/filtered.pickle'
+newspaper_datafile = 'data/newspaper/newspaper_dataset.pickle'
 
 city_dict = {  # amount of headlines
     'chicago': ['suntimes.com', 'chicagotribune.com'],  # 31316

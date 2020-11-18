@@ -1,7 +1,9 @@
 # custom
-data/old-newspaper.tsv
-data/filtered.pickle
-
+data/newspaper/old-newspaper.tsv
+data/newspaper/newspaper_dataset.pickle
+data/twitter/hashtag_donaldtrump.csv
+data/twitter/hashtag_joebiden.csv
+data/twitter/election_dataset.pickle
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
